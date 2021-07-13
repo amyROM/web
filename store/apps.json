@@ -60,6 +60,16 @@
         "description" : "An offline music player app, with modern UI and powerful features"
     },
     {
+        "title": "Telegram FOSS",
+        "file": "Telegram.apk",
+        "category": "extra",
+        "package" : "org.telegram.messenger",
+        "icon" : "Telegram.png",
+        "versionCode" : "23605",
+        "versionName" : "7.8.0",
+        "description" : "Telegram is a messaging app with a focus on speed and security"
+    },
+    {
         "title": "Vanced Manager",
         "file": "VancedManager.apk",
         "category": "extra",
