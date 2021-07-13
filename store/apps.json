@@ -20,6 +20,16 @@
         "description" : "An alternative app store for open source apps"
     },
     {
+        "title": "Fennec",
+        "file": "Fennec.apk",
+        "category": "extra",
+        "package" : "org.mozilla.fennec_fdroid",
+        "icon" : "Fennec.png",
+        "versionCode" : "891120",
+        "versionName" : "89.1.1",
+        "description" : "Browser that supports current and anticipated web standards."
+    },
+    {
         "title": "Vanced Manager",
         "file": "VancedManager.apk",
         "category": "extra",
