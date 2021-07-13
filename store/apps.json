@@ -50,6 +50,16 @@
         "description" : "Browser that supports current and anticipated web standards."
     },
     {
+        "title": "ProtonVPN",
+        "file": "ProtonVPN.apk",
+        "category": "extra",
+        "package" : "ch.protonvpn.android",
+        "icon" : "ProtonVPN.png",
+        "versionCode" : "102077000",
+        "versionName" : "2.7.70.0",
+        "description" : "Free Swiss VPN with advanced security and privacy features"
+    },
+    {
         "title": "Pulse Music",
         "file": "PulseMusic.apk",
         "category": "extra",
