@@ -1,5 +1,15 @@
 [
     {
+        "title": "Store",
+        "file": "Store.apk",
+        "category": "core",
+        "package" : "ml.amyrom.store",
+        "icon" : "Store.png",
+        "versionCode" : "1",
+        "versionName" : "1.0",
+        "description" : "The official app store of amyROM"
+    },
+    {
         "title": "F-Droid",
         "file": "F-Droid.apk",
         "category": "extra",
