@@ -1,0 +1,12 @@
+[
+    {
+        "title": "F-Droid",
+        "file": "F-Droid.apk",
+        "category": "extra",
+        "package" : "org.fdroid.fdroid",
+        "icon" : "F-Droid.png",
+        "versionCode" : "1013050",
+        "versionName" : "1.13",
+        "description" : "An alternative app store for open source apps"
+    }
+]
