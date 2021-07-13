@@ -40,6 +40,16 @@
         "description" : "Browser that supports current and anticipated web standards."
     },
     {
+        "title": "Pulse Music",
+        "file": "PulseMusic.apk",
+        "category": "extra",
+        "package" : "com.hardcodecoder.pulsemusic",
+        "icon" : "PulseMusic.png",
+        "versionCode" : "210040201",
+        "versionName" : "4.2.1",
+        "description" : "An offline music player app, with modern UI and powerful features"
+    },
+    {
         "title": "Vanced Manager",
         "file": "VancedManager.apk",
         "category": "extra",
