@@ -2,7 +2,7 @@
     {
         "title": "F-Droid",
         "file": "F-Droid.apk",
-        "category": "extra",
+        "category": "core",
         "package" : "org.fdroid.fdroid",
         "icon" : "F-Droid.png",
         "versionCode" : "1013050",
