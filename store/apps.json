@@ -38,5 +38,15 @@
         "versionCode" : "260",
         "versionName" : "2.6.0 (Crimson)",
         "description" : "Use the handy Vanced Manager to install YouTube Vanced with ease"
+    },
+    {
+        "title": "BG Browser 2",
+        "file": "BGBrowser.apk",
+        "category": "extra",
+        "package" : "com.bgbrowser.two",
+        "icon" : "BGBrowser.png",
+        "versionCode" : "2",
+        "versionName" : "1.10",
+        "description" : "An open-source browser developed by ios7jbpro and his friends using Sketchware to provide a highly customized and better browsing experience - Also provides downloading from YouTube through YouTubePlayerLib library"
     }
 ]
