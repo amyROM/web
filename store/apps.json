@@ -9,7 +9,17 @@
         "versionName" : "1.0",
         "description" : "The official app store of amyROM"
     },
-        {
+    {
+        "title": "Apollo",
+        "file": "Apollo.apk",
+        "category": "extra",
+        "package" : "com.andrew.apollo",
+        "icon" : "Apollo.png",
+        "versionCode" : "2",
+        "versionName" : "1.1",
+        "description" : "The music app that comes bundled with CyanogenMod ROM 10 and 11"
+    },
+    {
         "title": "BG Browser 2",
         "file": "BGBrowser.apk",
         "category": "extra",
