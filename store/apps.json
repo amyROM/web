@@ -2,11 +2,21 @@
     {
         "title": "F-Droid",
         "file": "F-Droid.apk",
-        "category": "core",
+        "category": "extra",
         "package" : "org.fdroid.fdroid",
         "icon" : "F-Droid.png",
         "versionCode" : "1013050",
         "versionName" : "1.13",
         "description" : "An alternative app store for open source apps"
+    },
+    {
+        "title": "Vanced Manager",
+        "file": "VancedManager.apk",
+        "category": "extra",
+        "package" : "com.vanced.manager",
+        "icon" : "VancedManager.png",
+        "versionCode" : "260",
+        "versionName" : "2.6.0 (Crimson)",
+        "description" : "Use the handy Vanced Manager to install YouTube Vanced with ease"
     }
 ]
